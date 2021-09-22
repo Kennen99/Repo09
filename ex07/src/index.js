@@ -5,6 +5,6 @@ function logicalAndOperator(num){
     }
     return "No";
 }
-console.log(logicalAndOperator(80));
+logicalAndOperator(80);
 // Only change code above this line
 module.exports = logicalAndOperator;
