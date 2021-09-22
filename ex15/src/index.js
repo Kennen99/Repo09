@@ -11,6 +11,6 @@ function myDoWhile(){
     } while(i<10);
     return myNumbers;
 }
-console.log(myDoWhile());
+myDoWhile();
 // Only change code above this line
 module.exports = myDoWhile;
